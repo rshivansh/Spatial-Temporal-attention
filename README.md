@@ -10,4 +10,4 @@ After that :
 
 Go inside ilids folder and run main.py
 
-Arxiv link of technical report - Coming Soon !
+Arxiv link of technical report - https://arxiv.org/abs/1810.11261
