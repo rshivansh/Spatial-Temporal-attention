@@ -16,3 +16,5 @@ Please cite this paper if you find this work useful
 
 ###Update ! 
 Please check the Non-Local Attention network repository from my profile for updated attention mechanism. This method gives much better results.
+
+Running opticalflow.m will generate the optical flow for your data.
